@@ -1,7 +1,3 @@
-debug: true
-server:
-  port: 8888
-  context-path: /
 spring:
   datasource:
     name: springCloud-demo
